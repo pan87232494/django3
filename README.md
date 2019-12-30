@@ -19,7 +19,7 @@ daphne -e ssl:443:privateKey=key.pem:certKey=crt.pem django_project.asgi:applica
 
 [ref ] (https://channels.readthedocs.io/en/latest/)
 
-# WARNING websocket is not support, ACTUALLY from github issue list :(
+# WARNING websocket is not support,  from github issue list :(
 
 https://github.com/django/daphne/issues/292
 https://github.com/dimkoug/celeryproject
