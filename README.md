@@ -27,3 +27,7 @@ https://github.com/dimkoug/celeryproject
 ## this can work, but not able to be used in production
 
 python manage.py runserver
+
+## also this is useful page
+
+https://www.tutorialdocs.com/tutorial/django-channels/asgi.html
