@@ -17,7 +17,7 @@ daphne -e ssl:443:privateKey=key.pem:certKey=crt.pem django_project.asgi:applica
 
 ## socket io, channel
 
-[ref ] (https://channels.readthedocs.io/en/latest/)
+[ ref ] (https://channels.readthedocs.io/en/latest/)
 
 # WARNING websocket is not support,  from github issue list :(
 
