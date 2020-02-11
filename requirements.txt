@@ -1,6 +1,6 @@
 #Package    Version
 #---------- -------
-Django==3.0.1
+Django==3.0.3
 pip==19.3.1
 daphne==2.4.1 #apt install python3.8-dev, required
 channels==2.4.0
